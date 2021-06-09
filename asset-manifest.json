@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/WordKeeper/static/css/main.e1df5fc5.chunk.css",
-    "main.js": "/WordKeeper/static/js/main.eae973bf.chunk.js",
-    "main.js.map": "/WordKeeper/static/js/main.eae973bf.chunk.js.map",
+    "main.css": "/WordKeeper/static/css/main.7c54167f.chunk.css",
+    "main.js": "/WordKeeper/static/js/main.ac264a85.chunk.js",
+    "main.js.map": "/WordKeeper/static/js/main.ac264a85.chunk.js.map",
     "runtime-main.js": "/WordKeeper/static/js/runtime-main.d2021b76.js",
     "runtime-main.js.map": "/WordKeeper/static/js/runtime-main.d2021b76.js.map",
-    "static/js/2.2a3c18ab.chunk.js": "/WordKeeper/static/js/2.2a3c18ab.chunk.js",
-    "static/js/2.2a3c18ab.chunk.js.map": "/WordKeeper/static/js/2.2a3c18ab.chunk.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/WordKeeper/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.be26b6a7.chunk.js": "/WordKeeper/static/js/2.be26b6a7.chunk.js",
+    "static/js/2.be26b6a7.chunk.js.map": "/WordKeeper/static/js/2.be26b6a7.chunk.js.map",
     "index.html": "/WordKeeper/index.html",
-    "static/css/main.e1df5fc5.chunk.css.map": "/WordKeeper/static/css/main.e1df5fc5.chunk.css.map",
-    "static/js/2.2a3c18ab.chunk.js.LICENSE.txt": "/WordKeeper/static/js/2.2a3c18ab.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/WordKeeper/static/media/logo.6ce24c58.svg"
+    "static/css/2.61b4cb56.chunk.css.map": "/WordKeeper/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.7c54167f.chunk.css.map": "/WordKeeper/static/css/main.7c54167f.chunk.css.map",
+    "static/js/2.be26b6a7.chunk.js.LICENSE.txt": "/WordKeeper/static/js/2.be26b6a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d2021b76.js",
-    "static/js/2.2a3c18ab.chunk.js",
-    "static/css/main.e1df5fc5.chunk.css",
-    "static/js/main.eae973bf.chunk.js"
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.be26b6a7.chunk.js",
+    "static/css/main.7c54167f.chunk.css",
+    "static/js/main.ac264a85.chunk.js"
   ]
 }
