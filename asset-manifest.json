@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WordKeeper/static/css/main.99ec2eff.chunk.css",
+    "main.css": "/WordKeeper/static/css/main.aed1b2a1.chunk.css",
     "main.js": "/WordKeeper/static/js/main.bf70790b.chunk.js",
     "main.js.map": "/WordKeeper/static/js/main.bf70790b.chunk.js.map",
     "runtime-main.js": "/WordKeeper/static/js/runtime-main.d2021b76.js",
@@ -10,14 +10,14 @@
     "static/js/2.d7eabd74.chunk.js.map": "/WordKeeper/static/js/2.d7eabd74.chunk.js.map",
     "index.html": "/WordKeeper/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/WordKeeper/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.99ec2eff.chunk.css.map": "/WordKeeper/static/css/main.99ec2eff.chunk.css.map",
+    "static/css/main.aed1b2a1.chunk.css.map": "/WordKeeper/static/css/main.aed1b2a1.chunk.css.map",
     "static/js/2.d7eabd74.chunk.js.LICENSE.txt": "/WordKeeper/static/js/2.d7eabd74.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d2021b76.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.d7eabd74.chunk.js",
-    "static/css/main.99ec2eff.chunk.css",
+    "static/css/main.aed1b2a1.chunk.css",
     "static/js/main.bf70790b.chunk.js"
   ]
 }
