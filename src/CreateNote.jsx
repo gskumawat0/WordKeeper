@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Button from "@material-ui/core/Button";
-import QueueIcon from "@material-ui/icons/Queue";
 
 const CreateNote = (props) => {
 	const [expand, setExpand] = useState(false);
@@ -54,6 +53,7 @@ const CreateNote = (props) => {
 						onChange={InputEvent}
 						placeholder="Write Your Note..."
 						onClick={expandIt}
+						className="w-100 d-block"
 					></textarea>
 					{expand ? (
 						<Button
@@ -62,7 +62,7 @@ const CreateNote = (props) => {
 							variant="contained"
 							color="primary"
 						>
-							<QueueIcon className="icon" />
+							Add Note
 						</Button>
 					) : null}
 				</form>

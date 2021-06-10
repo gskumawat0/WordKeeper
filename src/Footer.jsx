@@ -5,7 +5,7 @@ const Footer = () => {
 
 	return (
 		<>
-			<footer className="footer">
+			<footer className="footer py-5">
 				<p>copyright © Tech Spot {year}</p>
 			</footer>
 		</>

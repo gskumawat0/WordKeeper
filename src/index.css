@@ -75,20 +75,6 @@ textarea {
 	margin: 10px 0;
 }
 
-.main_note .btn {
-	float: right;
-	margin-right: 2px;
-	color: rgb(9, 22, 206);
-	border: none;
-	width: 50px;
-	height: 50px;
-	background: transparent;
-	cursor: pointer;
-	outline: none;
-	box-shadow: 3px 3px 15px -10px darkgray;
-	border-radius: 50%;
-}
-
 .MuiButton-root .icon {
 	font-size: 25px !important;
 	font-weight: 900;
@@ -152,32 +138,6 @@ textarea {
 	margin-top: 30px;
 	word-break: break-all;
 	white-space: pre-wrap;
-}
-
-.note .btn {
-	position: relative;
-	float: right;
-	margin-right: 0;
-	margin-top: 35px;
-	margin-left: 60px;
-	color: rgb(9, 22, 206);
-	border: none;
-	width: 50px;
-	height: 50px;
-	background: transparent;
-	cursor: pointer;
-	outline: none;
-	box-shadow: 3px 3px 15px -10px darkgray;
-	border-radius: 50%;
-}
-
-.note .btn:hover {
-	background-color: black !important;
-}
-
-.note .btn:hover .deletIcon {
-	color: #fff;
-	background-color: black !important;
 }
 
 .footer {
@@ -250,13 +210,7 @@ textarea {
 		float: left;
 		margin-left: 4px;
 	}
-	.main_note .btn {
-		position: relative;
-		float: right;
-		margin-right: 5px;
-		width: 4vw;
-		height: 5vh;
-	}
+
 	.MuiButton-root .icon {
 		font-size: 1.5rem !important;
 		font-weight: 700;
